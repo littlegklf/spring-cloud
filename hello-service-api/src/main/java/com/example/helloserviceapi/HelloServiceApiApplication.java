@@ -1,13 +1,13 @@
-package com.example.springcloud;
+package com.example.helloserviceapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringCloudApplication {
+public class HelloServiceApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringCloudApplication.class, args);
+        SpringApplication.run(HelloServiceApiApplication.class, args);
     }
 
 }
